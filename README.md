@@ -10,7 +10,7 @@
 ### Credits: Copy of Git Commands Documentation (for assignment template), coursework notes
 
 
-### Branches: master, documentation
+### Branches: master, documentation, refactoring
 
 
 ### SPECIAL CONSIDERATIONS: THE BIKESHARE.PY FILE IS UNCONFIRMED FINAL BY UDACITY REVIEW TEAM.
