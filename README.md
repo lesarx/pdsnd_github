@@ -1,15 +1,11 @@
-### Date created
-Include the date you created this project and README file.
+### Date created: 10 November 2020
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
+### Project Title: lesarx Version Control Project
 
-### Files used
-Include the files used
+### Description: This Version Control Project is part of the Udacity Course Programming for Data Science with Python. This project is the last assignment for the Version Control module of the course to master GitHub and remote repos.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Files used: README, Copy of Git Commands Documentation
+
+### Credits: Copy of Git Commands Documentation (for assignment template), coursework notes
 
