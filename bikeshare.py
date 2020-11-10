@@ -172,7 +172,7 @@ def user_stats(df):
     print('User Type Counts:/n')
     print(df['User Type'].value_counts())
 
-    # TO DO: Display counts of gender
+    # TO DO: Display counts of gender - EDITED CODE TO REFLECT 'df' VS 'city' FOR VERSION 3 PROJECT SUBMISSION
     if df !='washington':
         print('Gender Statistics: ')
         print(df['Gender'].value_counts())
