@@ -24,4 +24,4 @@ master, documentation, refactoring
 
 
 ### SPECIAL CONSIDERATIONS:
-The bikeshare.py file is confirmed final by the Udacity review team.
+The bikeshare.py file is unconfirmed final by the Udacity review team.
