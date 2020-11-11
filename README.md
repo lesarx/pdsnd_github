@@ -21,7 +21,3 @@ Copy of Git Commands Documentation (for assignment template), coursework notes
 
 ### Branches:
 master, documentation, refactoring
-
-
-### SPECIAL CONSIDERATIONS:
-The bikeshare.py file is unconfirmed final by the Udacity review team.
